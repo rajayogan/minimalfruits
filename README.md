@@ -1,16 +1,11 @@
-# minimal_fruit
+# Minimal designs
 
-A new Flutter project.
+A simple minimal design screen created with flutter.
 
-## Getting Started
+Design credit - https://dribbble.com/shots/5987436-Grocery-Delivery-iOS-App/attachments/1287216
 
-This project is a starting point for a Flutter application.
+How do I code this - https://youtu.be/rrhdYww00yQ
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![screenshot_20190219-054008](https://user-images.githubusercontent.com/8137504/53028617-396d2c80-348d-11e9-8367-25de14d3401e.png)
